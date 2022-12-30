@@ -1,5 +1,5 @@
 # Handwritten-digit-recognition
-My first task in CodeClause as an AI-intern <br/>
+Task#1 in CodeClause as an AI-intern <br/>
 dataset: https://www.tensorflow.org/datasets/catalog/mnist <br/>
 ### Training sample
 ![image](https://user-images.githubusercontent.com/61421659/210070981-7f068b90-4376-45ec-8018-b00274dc498b.png) <br/>
