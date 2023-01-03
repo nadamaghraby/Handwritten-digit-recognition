@@ -1,6 +1,7 @@
 # Handwritten-digit-recognition
 Task#1 in CodeClause AI-intern <br/>
 dataset: https://www.tensorflow.org/datasets/catalog/mnist <br/>
+Colab notebook: https://colab.research.google.com/drive/1EQRQqY2OBNt0hA9vv7RHpIZ2bwZEX68F?usp=sharing <br/>
 
 ### Training sample
 ![image](https://user-images.githubusercontent.com/61421659/210070981-7f068b90-4376-45ec-8018-b00274dc498b.png) <br/>
